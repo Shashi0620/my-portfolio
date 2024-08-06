@@ -2,7 +2,7 @@
 
 This is my personal portfolio website built with Angular, Typescript, HTML5, CSS3, Bootstrap, Ngx-Bootstrap, DevIcons and Angular Material. It's currently deployed on the web: [https://shashi-profile.netlify.app/home](https://shashi-profile.netlify.app/home)
 
-![Shashikiran's Portfolio](portfolio.png)
+![Shashikiran's Portfolio](shashi-portfolio.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.7.
 
@@ -31,7 +31,6 @@ The potfolio has sections of home, about, education, portfolio projects and cont
 - Ngx-Bootstrap
 - Dev Icons
 - Netlify
-- Vite
 
 ## Development server
 
