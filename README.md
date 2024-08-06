@@ -1,18 +1,17 @@
-# BC | Angular Portfolio App
+# SH | Angular Portfolio App
 
-This is my personal portfolio website built with Angular, Typescript, HTML5, CSS3, Bootstrap, Ngx-Bootstrap, DevIcons and Angular Material. It's currently deployed on the web: [https://angular-portfolio-app-omega.vercel.app/](https://angular-portfolio-app-omega.vercel.app/)
+This is my personal portfolio website built with Angular, Typescript, HTML5, CSS3, Bootstrap, Ngx-Bootstrap, DevIcons and Angular Material. It's currently deployed on the web: [https://shashi-profile.netlify.app/home](https://shashi-profile.netlify.app/home)
 
-![Barbara Calderon's Angular Portfolio App](portfolio.png)
+![Shashikiran's Portfolio](portfolio.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.7.
 
 ## Author
 
-I'm Barbara Calderon, a software developer.
+I'm Shashikiran, a software developer.
 
-- [Github](https://www.github.com/barbaracalderon)
-- [Linkedin](https://www.linkedin.com/in/barbaracalderondev)
-- [Twitter](https://www.x.com/bederoni)
+- [Github](https://github.com/Shashi0620)
+- [Linkedin](https://www.linkedin.com/in/shashikiran-s-a7a8891a1)
 
 ## The Project
 
@@ -31,7 +30,7 @@ The potfolio has sections of home, about, education, portfolio projects and cont
 - Bootstrap
 - Ngx-Bootstrap
 - Dev Icons
-- Vercel
+- Netlify
 - Vite
 
 ## Development server
@@ -60,4 +59,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## About
 
-This portfolio was designed and developed by myself, Barbara Calderon, using frontend software skills for a dynamic and responsive web application.
+This portfolio was designed and developed by myself, Shashikiran, using frontend software skills for a dynamic and responsive web application.
